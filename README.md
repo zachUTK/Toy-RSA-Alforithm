@@ -1,4 +1,4 @@
-# Toy-RSA-Alforithm
+# Toy-RSA-Algorithm
 This is a toy implementation of the RSA encryption algorithm written in C. The user will provide the program with two prime integers, p and q, and a message to encrypt. The program will return the values of E and D, along with the encoded and decoded messages. It can accept prime integers up to four digits, but none larger. The encryption uses ASCII values from 0 to 127.
 
 **Note: This program uses the GMP library to handle the larger integers. You may have to install it first.**
