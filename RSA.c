@@ -1,5 +1,4 @@
-/*Filename: RSA.c
-Author: Zach Sublett*/
+/*Filename: RSA.c*/
 
 #include "RSA_helper.h"
 
